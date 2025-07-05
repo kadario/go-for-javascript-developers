@@ -1,20 +1,21 @@
-# Go for Javascript Developers
+# Go для Javascript Разработчиков
 
 ![book cover](/src/images/cover.png)
 
-## Read online
+## Читать онлайн
 
-This is the source code for "Go for Javascript Developers".
+Это "форк" исходного кода оригинальной книги "Go for Javascript Developers",
+а точнее ее русская адоптация, которая в данный момент находится в процессе перевода.
 
-The book can be found at [http://www.pazams.com/Go-for-Javascript-Developers/](http://www.pazams.com/Go-for-Javascript-Developers/).
+Оригинал книги на английском языке можно найти по ссылке: [http://www.pazams.com/Go-for-Javascript-Developers/](http://www.pazams.com/Go-for-Javascript-Developers/).
 
-Chinese translated version can be found at https://github.com/chenjinya/go-for-javascript-developers .
+Китайская верся книги находится здесь: https://github.com/chenjinya/go-for-javascript-developers .
 
 
 ## License
 
-Copyright Maor Zamski & Daniel Singer.
+&copy; Maor Zamski & Daniel Singer. Все права защищены.
 
-"Go for Javascript Developers" is released under the [Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/).
+"Go for Javascript Developers" издано под лицензией [Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/).
 
-Cover design by [Stefano Tirloni](https://www.stedesign.com/).
+Дизайн обложки [Stefano Tirloni](https://www.stedesign.com/).
